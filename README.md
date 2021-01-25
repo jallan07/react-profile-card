@@ -2,26 +2,29 @@
 
 ---
 
-## **Description**
+## Preview
 
-This profile card component uses Bootstrap and React to create a component that is responsive in design, and functional in code.
+![Preview](./images/preview.png)
 
 ---
 
 ## **Table of Contents**
 
 1. [Preview](#Preview)
-2. [Installation](#Installation)
-3. [Technologies](#Technologies)
-4. [License](#License)
-5. [Contributions](#Contributions)
-6. [Author](#Author)
+1. [Description](#Description)
+1. [Installation](#Installation)
+1. [Technologies](#Technologies)
+1. [License](#License)
+1. [Contributions](#Contributions)
+1. [Author](#Author)
 
 ---
 
-## Preview
+## **Description**
 
-![Preview](./images/preview.png)
+This profile card component uses Bootstrap and React to create a component that is responsive in design, and functional in code.
+
+---
 
 ## **Installation**
 
